@@ -46,7 +46,7 @@
                 "tab.active_background": "#242835ff",
                 "search.match_background": "#73cffe66",
                 "search.active_match_background": "#BE8FF9FF",
-                "accents": ["#66C8CCFF", "#e48cfa", "#31D475FF", "#9D90FCFF", "#2C9CF2FF", "#76B668FF"],
+                "accents": ["#66C8CCFF", "#E48CFA", "#31D475FF", "#9D90FCFF", "#2C9CF2FF", "#76B668FF"],
                 "panel.background": "#2c303cff",
                 "panel.focused_border": "#24556fff",
                 "pane.focused_border": "#24556fff",
