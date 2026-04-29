@@ -1,6 +1,6 @@
 id = "selene-abyss-theme"
 name = "Selene Abyss"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["envoidia"]
 description = "A blue and purple-focused dark theme"
