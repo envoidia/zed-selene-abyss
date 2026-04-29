@@ -1,7 +1,7 @@
-id = "selene-abyss"
+id = "selene-abyss-theme"
 name = "Selene Abyss"
 version = "0.0.1"
 schema_version = 1
 authors = ["envoidia"]
-description = ""
-repository = "https://github.com/your-name/my-zed-extension"
+description = "A blue and purple-focused dark theme"
+repository = "https://github.com/envoidia/zed-selene-abyss"
