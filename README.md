@@ -49,3 +49,5 @@ For more advanced syntax highlighting, I recommend adding the following to your 
     ],
 },
 ```
+
+You can find Selene Abyss for various other programs [here](https://github.com/envoidia/selene-abyss)
