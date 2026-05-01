@@ -81,9 +81,9 @@
                 "terminal.ansi.dim_red": "#fec4baFF",
                 "terminal.ansi.green": "#32BB99FF",
                 "terminal.ansi.bright_green": "#4FC1A5FF",
-                "terminal.ansi.dim_green": "#ecFFc1FF",
-                "terminal.ansi.yellow": "#D9A1D4FF",
-                "terminal.ansi.bright_yellow": "#E9AEE4FF",
+                "terminal.ansi.dim_green": "#ECFFC1FF",
+                "terminal.ansi.yellow": "#E9AEE4FF",
+                "terminal.ansi.bright_yellow": "#EFBCEBFF",
                 "terminal.ansi.dim_yellow": "#FFe7b9FF",
                 "terminal.ansi.blue": "#6798FFFF",
                 "terminal.ansi.bright_blue": "#8DB0FFFF",
@@ -354,7 +354,7 @@
                         "font_weight": null
                     },
                     "string.special": {
-                        "color": "#DCDCAA",
+                        "color": "#DCDCAAFF",
                         "font_style": null,
                         "font_weight": null
                     },
