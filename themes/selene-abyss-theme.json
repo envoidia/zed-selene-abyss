@@ -85,7 +85,7 @@
                 "terminal.ansi.yellow": "#D9A1D4FF",
                 "terminal.ansi.bright_yellow": "#E9AEE4FF",
                 "terminal.ansi.dim_yellow": "#FFe7b9FF",
-                "terminal.ansi.blue": "#7AA2F7FF",
+                "terminal.ansi.blue": "#6798FFFF",
                 "terminal.ansi.bright_blue": "#8DB0FFFF",
                 "terminal.ansi.dim_blue": "#c1e7FFFF",
                 "terminal.ansi.magenta": "#A673D3FF",
