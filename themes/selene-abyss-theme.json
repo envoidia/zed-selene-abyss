@@ -98,7 +98,7 @@
                 "terminal.ansi.bright_white": "#C0CAF5FF",
                 "terminal.ansi.dim_white": "#959bb1",
                 "link_text.hover": "#72CFFEFF",
-                "conflict": "#fecf72FF",
+                "conflict": "#DCDCAA",
                 "conflict.background": "#574018FF",
                 "conflict.border": "#765a29FF",
                 "created": "#d5fe80FF",
@@ -122,7 +122,7 @@
                 "info": "#72cFFeFF",
                 "info.background": "#123950FF",
                 "info.border": "#24556FFF",
-                "modified": "#fecf72FF",
+                "modified": "#DCDCAA",
                 "modified.background": "#574018FF",
                 "modified.border": "#765a29FF",
                 "predictive": "#6d839bFF",
@@ -137,7 +137,7 @@
                 "unreachable": "#9a9a98FF",
                 "unreachable.background": "#464a52FF",
                 "unreachable.border": "#3A3B3FFF",
-                "warning": "#FECF72FF",
+                "warning": "#DCDCAA",
                 "warning.background": "#574018FF",
                 "warning.border": "#765a29FF",
                 "players": [
@@ -172,8 +172,8 @@
                         "selection": "#f187793d"
                     },
                     {
-                        "cursor": "#fecf72FF",
-                        "background": "#fecf72FF",
+                        "cursor": "#DCDCAA",
+                        "background": "#DCDCAA",
                         "selection": "#fecf723d"
                     },
                     {
@@ -404,9 +404,9 @@
                 "minimap.thumb.border": "#43464FFF",
                 "version_control.added": "#d5fe80FF",
                 "version_control.deleted": "#FF899DFF",
-                "version_control.modified": "#fecf72FF",
+                "version_control.modified": "#DCDCAA",
                 "version_control.renamed": "#72cFFeFF",
-                "version_control.conflict": "#fecf72FF",
+                "version_control.conflict": "#DCDCAA",
                 "version_control.ignored": "#7B7D7FFF"
             }
         }
